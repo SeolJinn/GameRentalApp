@@ -1,0 +1,119 @@
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.exe
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.deps.json
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.runtimeconfig.json
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.dll
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\ref\Games-Rental-System.dll
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.pdb
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.AssemblyReference.cache
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.AssemblyInfoInputs.cache
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.AssemblyInfo.cs
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.CoreCompileInputs.cache
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.dll
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\ref\Games-Rental-System.dll
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.pdb
+E:\Projects\C#\New folder\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.genruntimeconfig.cache
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.exe
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.deps.json
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.runtimeconfig.json
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.dll
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\ref\Games-Rental-System.dll
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.pdb
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Properties.Resources.resources
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.GenerateResource.cache
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.AssemblyInfoInputs.cache
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.AssemblyInfo.cs
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.CoreCompileInputs.cache
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.dll
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\ref\Games-Rental-System.dll
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.pdb
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.genruntimeconfig.cache
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Login.resources
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Register.resources
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Main.resources
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.CopyComplete
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmBrowse.resources
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.GameItem.resources
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.AssemblyReference.cache
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmAddGame.resources
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmUpdateGame.resources
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.exe
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.deps.json
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.runtimeconfig.json
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.pdb
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\CircularProgressBar.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\WinFormAnimation.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.AssemblyReference.cache
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmAddGame.resources
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmAddUser.resources
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmBrowse.resources
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmUpdateGame.resources
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmUpdateUser.resources
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.GameItem.resources
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Login.resources
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Main.resources
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Properties.Resources.resources
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Register.resources
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.GenerateResource.cache
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.AssemblyInfoInputs.cache
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.AssemblyInfo.cs
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.CoreCompileInputs.cache
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.CopyComplete
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\refint\Games-Rental-System.dll
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.pdb
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.genruntimeconfig.cache
+E:\FCAI year 2\semester 2\subjects\database IS\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\ref\Games-Rental-System.dll
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmAddClient.resources
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmUpdateClient.resources
+E:\Projects\C#\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmQueries.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.exe
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.deps.json
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.runtimeconfig.json
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.dll
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\Games-Rental-System.pdb
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.AssemblyReference.cache
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmAddClient.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmAddGame.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmBrowse.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmQueries.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmUpdateClient.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.frmUpdateGame.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.GameItem.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Login.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Main.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Properties.Resources.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games_Rental_System.Register.resources
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.GenerateResource.cache
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.AssemblyInfoInputs.cache
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.AssemblyInfo.cs
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.csproj.CoreCompileInputs.cache
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.dll
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\refint\Games-Rental-System.dll
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.pdb
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.genruntimeconfig.cache
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\ref\Games-Rental-System.dll
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Rental-System.sourcelink.json
+C:\Users\jwoo2\OneDrive\Desktop\SEF PROJECT\Games-Rental-System\Games-Rental-System\obj\Debug\net6.0-windows\Games-Re.9138CCDB.Up2Date

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fn8yJ1rIOf0RCMSP3hPa2998/KWYl7M7LfcxRNttXQvKnKWa4Xe3ELYylXupEOlwkwuxHYbF8LgNkeHo5OK7NQ==",
+  "dgSpecHash": "J07zf1EcgV9rGEl5K6dlU0u8ppeM5zfWBNMswJyM4t3DonWt5nBwwLxia5ybX2hPLAv7V5T95Lk2y1BwohdXuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jwoo2\\OneDrive\\Desktop\\PROIECT_SEF\\Games-Rental-System\\Games-Rental-System\\Games-Rental-System.csproj",
+  "projectFilePath": "C:\\Users\\jwoo2\\OneDrive\\Desktop\\New folder\\GameRentalApp\\Games-Rental-System\\Games-Rental-System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jwoo2\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\jwoo2\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
